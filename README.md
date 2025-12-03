@@ -11,7 +11,7 @@ This Power BI dashboard provides a comprehensive view of HR data, helping HR tea
 
 ## 📸 Demo / Preview  
 
-![Dashboard Demo GIF](HR%20Analytics%20Dashboard.gif)
+![Dashboard Demo GIF](HR-Analytics-Dashboard.gif)
 
 ---
 
