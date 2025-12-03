@@ -9,6 +9,12 @@ This Power BI dashboard provides a comprehensive view of HR data, helping HR tea
 
 ---
 
+## 📸 Demo / Preview  
+
+![Dashboard Demo GIF](HR%20Analytics%20Dashboard.gif)
+
+---
+
 ## 📁 Repository Structure  
 
 - `HR Analytics Dashboard.gif` — Demo GIF showing dashboard visuals and interaction.  
@@ -72,10 +78,4 @@ The HR Analytics Dashboard consists of the following pages:
 | Gender | Male / Female | Text |
 | Attrition | Yes/No if employee left | Text |
 | MonthlyIncome | Employee salary | Number |
-
----
-
-## 📸 Demo / Preview  
-
-![Dashboard Demo GIF](HR%20Analytics%20Dashboard.gif)
 
